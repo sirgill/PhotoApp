@@ -1,0 +1,3 @@
+export SENDGRID_USERNAME=sirgill
+
+export SENDGRID_PASSWORD=Ambitionstrive24
