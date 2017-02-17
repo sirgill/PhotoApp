@@ -1,3 +1,7 @@
 export SENDGRID_USERNAME=sirgill
 
 export SENDGRID_PASSWORD=Ambitionstrive24
+
+export STRIPE_TEST_SECRET_KEY=sk_test_SZTECCqFQ9NHVOI5p5uWwa6C
+
+export STRIPE_TEST_PUBLISHABLE_KEY=pk_test_CD7oNmd7vkxeuokuooa5Vja2
